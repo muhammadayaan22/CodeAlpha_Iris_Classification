@@ -39,15 +39,6 @@ Displays relationships between all pairs of features with species coloring.
 ### ✔ Correlation Heatmap
 Shows correlation strength between numerical features.
 
-### ✔ Boxplots & Violin Plots
-Visual comparison of feature ranges across species.
-
-### ✔ Scatter Plots
-Shows visual separation of species using key features.
-
-### ✔ KDE Density Plots
-Shows smooth distribution curves for each feature.
-
 ### ✔ Feature Distribution Histograms
 Visualizes the spread of sepal and petal measurements.
 
@@ -58,7 +49,7 @@ Displays classification performance visually.
 
 ## 🤖 Model Used
 
-### ✔ Random Forest Classifier
+### ✔ Gradient Boosting Classifier
 Chosen because:
 
 - Easy to train
@@ -131,9 +122,6 @@ This project successfully demonstrates:
 The model achieved excellent accuracy due to the clear and natural separation between Iris species based on petal measurements.
 
 ---
-
-## 📂 Project Structure
-
 
 ---
 
